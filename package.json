@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexyommy/Socail-Media-Dashboard-Dark-Light.git"
+    "url": "git+https://github.com/alexyommy/Social-Media-Dashboard-Dark-Light.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexyommy/Socail-Media-Dashboard-Dark-Light/issues"
+    "url": "https://github.com/alexyommy/Social-Media-Dashboard-Dark-Light/issues"
   },
-  "homepage": "https://github.com/alexyommy/Socail-Media-Dashboard-Dark-Light#readme",
+  "homepage": "https://github.com/alexyommy/Social-Media-Dashboard-Dark-Light#readme",
   "dependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.4",
